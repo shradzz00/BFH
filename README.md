@@ -14,7 +14,8 @@ The features of app includes
 ## Team Id
 BFH/recGZgcGOIQomh/2021
 ## Link to product walkthrough
-[link to video]
+- Project Overview - [https://www.loom.com/share/4adf9a453c234b8aa3f589b99bffdf41]
+- Working Demo - [https://drive.google.com/file/d/14qHit7xDNBFDsiDukx7Bbtq38E3zaNLi/view?usp=sharing]
 ## How it Works ?
 The Shopping App with Flutter and firebase as backend.The user management is done with the Firebase Authentication and the Database System with Firebase Cloud Firestore.
 Users can login to their account search and find the products save it or add it to their cart and can proceed with checkout.
