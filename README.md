@@ -1,4 +1,4 @@
-![BFH Banner](https://trello-attachments.s3.amazonaws.com/542e9c6316504d5797afbfb9/542e9c6316504d5797afbfc1/39dee8d993841943b5723510ce663233/Frame_19.png)
+
 # Shopping App [Flutter]
 A Simple shopping app with flutter where the users can navigate through the product and find the item.
 The features of app includes
@@ -8,14 +8,7 @@ The features of app includes
 - User can save a product
 - Can add a product to their cart
 - Firebase connections are provided
-## Team members
-1. Shradha Shejil [https://github.com/shradzz00]
-2. Nanda Unnimaya K [https://github.com/nandaunnimaya]
-## Team Id
-BFH/recGZgcGOIQomh/2021
-## Link to product walkthrough
-- Project Overview - [https://www.loom.com/share/4adf9a453c234b8aa3f589b99bffdf41]
-- Working Demo - [https://drive.google.com/file/d/14qHit7xDNBFDsiDukx7Bbtq38E3zaNLi/view?usp=sharing]
+
 ## How it Works ?
 The Shopping App with Flutter and firebase as backend.The user management is done with the Firebase Authentication and the Database System with Firebase Cloud Firestore.
 Users can login to their account search and find the products save it or add it to their cart and can proceed with checkout.
